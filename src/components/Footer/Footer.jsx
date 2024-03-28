@@ -7,26 +7,26 @@ import "../../styles/footer.css";
 const quickLinks = [
   {
     path: "/about",
-    display: "About",
+    display: "О нас",
   },
 
   {
     path: "#",
-    display: "Privacy Policy",
+    display: "Политика",
   },
 
   {
     path: "/cars",
-    display: "Car Listing",
+    display: "Список машин",
   },
   {
     path: "/blogs",
-    display: "Blog",
+    display: "Блог",
   },
 
   {
     path: "/contact",
-    display: "Contact",
+    display: "Контакты",
   },
 ];
 
